@@ -24,8 +24,13 @@ aws config
 SSM automations
 aws managed logs: load balancer, cloud tarail, vpc flow, route 5three, sthree , cloud front, aws config
 amazon guard duty
-amazon ecr scanning
-eks
-efs with ecs and eks
-aws app runner
+ec2 graviton
+hpc
+efa
+eni
+ena
+asg
+auto scale  instance refresh
+spot fleet
+spot fleets
 
