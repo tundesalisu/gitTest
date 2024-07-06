@@ -37,3 +37,5 @@ NATGW
 IGW
 ENI
 clb,alb,nlb,glb
+server name indication
+zonal dns name
