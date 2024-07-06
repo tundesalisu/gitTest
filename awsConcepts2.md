@@ -33,4 +33,7 @@ asg
 auto scale  instance refresh
 spot fleet
 spot fleets
-
+NATGW
+IGW
+ENI
+clb,alb,nlb,glb
